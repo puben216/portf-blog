@@ -3,7 +3,7 @@
   siteMetadata: {
     title: 'Dyuzz&apos;s Blog',
     description: 'Front End Technical Blog - Dyuzz',
-    siteUrl: 'https://www.dyuzz.club',
+    siteUrl: 'https://www.dyuaaaaaaaazz.club',
     author: 'Dyuzz',
   },
   plugins: [

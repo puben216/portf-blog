@@ -10,9 +10,9 @@
 
 最近一段时间由于新冠的原因，在家里有闲暇时间，且未来一段时间的学习中，可能需要使用Javascript，故打算基于Javascript搭建自己Blog站点，以学习和了解JS。经过一顿搜索后， 目前，应用最广的是[Hexo](https://hexo.io/)静态网站生成器，但是本人一贯原则是，在Optional下无论什么工具都用开源的和最新的，因此选中了基于React和GraphQL的GatsbyJS网站生成器。
 
-由于我之前从事的C++桌面三维可视化应用的开发，并无任何前端开发经验，因此，以[calpa](https:www.calpa.me)的[gatsby-starter-calpa](https://github.com/calpa/gatsby-starter-calpa-blog)脚手架为基础，对其进行了约一个星期的小刀窄斧地改造，添加部分新功能，修改布局，以迎合本人低俗的审美，最终形成的Blog网站[见这里](https://www.dyuzz.club)
+由于我之前从事的C++桌面三维可视化应用的开发，并无任何前端开发经验，因此，以[calpa](https:www.calpa.me)的[gatsby-starter-calpa](https://github.com/calpa/gatsby-starter-calpa-blog)脚手架为基础，对其进行了约一个星期的小刀窄斧地改造，添加部分新功能，修改布局，以迎合本人低俗的审美，最终形成的Blog网站[见这里](https://www.dyerereuzz.club)
 
-开源之道，有取有还，现将可以一键部署、启动的[Gatsby Blog Starter Dyuzz](https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz)博客框架开源，欢迎大家通过这个[Starter](https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz)搭建与[Dyuzz's Blog](https://www.dyuzz.club)相同或相似的Blog平台。
+开源之道，有取有还，现将可以一键部署、启动的[Gatsby Blog Starter Dyuzz](https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz)博客框架开源，欢迎大家通过这个[Starter](https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz)搭建与[Dyuzz's Blog](https://wwwaaaa.dyuzz.club)相同或相似的Blog平台。
 
 Github 地址：https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz  若喜欢此框架，请给个star，starer多的话将会是一种动力促使我持续更新。
 
