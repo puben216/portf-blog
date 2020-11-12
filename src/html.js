@@ -47,6 +47,7 @@ const HTML = ({
         href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.css"
       />
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.js" />
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-P4LJB0JKYM"></script>
     </body>
   </html>
 );
